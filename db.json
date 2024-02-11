@@ -1,0 +1,145 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "CreateProduct": [
+    {
+      "id": "43c1",
+      "productId": 0,
+      "productSku": "ABC",
+      "productName": "Gawava",
+      "productPrice": 0,
+      "productShortName": "gawava",
+      "productDescription": "",
+      "createdDate": "2024-02-11T10:04:33.120Z",
+      "deliveryTimeSpan": "rdgdgdfg",
+      "categoryId": "1",
+      "productImageUrl": "https://mbg.com.my/cdn/shop/products/Malaysia-Guava-L-Exotic-Fruits_1024x1024.jpg?v=1631123700"
+    },
+    {
+      "id": "985d",
+      "productId": 0,
+      "productSku": "bcd",
+      "productName": "Graps",
+      "productPrice": "0233",
+      "productShortName": "graps",
+      "productDescription": "",
+      "createdDate": "2024-02-11T10:32:13.732Z",
+      "deliveryTimeSpan": "ssgsfdg",
+      "categoryId": "1",
+      "productImageUrl": "https://as2.ftcdn.net/v2/jpg/05/43/97/59/1000_F_543975953_Dwz5S7oUKbfuLBwUdyiaVQrFGhW1jyRz.webp"
+    },
+    {
+      "id": "ad96",
+      "productId": 0,
+      "productSku": "bcd",
+      "productName": "Graps",
+      "productPrice": "0233",
+      "productShortName": "graps",
+      "productDescription": "",
+      "createdDate": "2024-02-11T10:32:13.732Z",
+      "deliveryTimeSpan": "ssgsfdg",
+      "categoryId": "1",
+      "productImageUrl": "https://as2.ftcdn.net/v2/jpg/05/43/97/59/1000_F_543975953_Dwz5S7oUKbfuLBwUdyiaVQrFGhW1jyRz.webp"
+    },
+    {
+      "id": "a950",
+      "productId": 0,
+      "productSku": "bcd",
+      "productName": "Graps",
+      "productPrice": "0233",
+      "productShortName": "graps",
+      "productDescription": "",
+      "createdDate": "2024-02-11T10:32:13.732Z",
+      "deliveryTimeSpan": "ssgsfdg",
+      "categoryId": "1",
+      "productImageUrl": "https://as2.ftcdn.net/v2/jpg/05/43/97/59/1000_F_543975953_Dwz5S7oUKbfuLBwUdyiaVQrFGhW1jyRz.webp"
+    },
+    {
+      "id": "5daa",
+      "productId": 0,
+      "productSku": "bcd",
+      "productName": "Graps",
+      "productPrice": "0233",
+      "productShortName": "graps",
+      "productDescription": "",
+      "createdDate": "2024-02-11T10:32:13.732Z",
+      "deliveryTimeSpan": "ssgsfdg",
+      "categoryId": "1",
+      "productImageUrl": "https://as2.ftcdn.net/v2/jpg/05/43/97/59/1000_F_543975953_Dwz5S7oUKbfuLBwUdyiaVQrFGhW1jyRz.webp"
+    },
+    {
+      "id": "3026",
+      "productId": 0,
+      "productSku": "bcd",
+      "productName": "Graps",
+      "productPrice": "0233",
+      "productShortName": "graps",
+      "productDescription": "",
+      "createdDate": "2024-02-11T10:32:13.732Z",
+      "deliveryTimeSpan": "ssgsfdg",
+      "categoryId": "1",
+      "productImageUrl": "https://as2.ftcdn.net/v2/jpg/05/43/97/59/1000_F_543975953_Dwz5S7oUKbfuLBwUdyiaVQrFGhW1jyRz.webp"
+    },
+    {
+      "id": "640b",
+      "productId": 0,
+      "productSku": "bcd",
+      "productName": "Graps",
+      "productPrice": "0233",
+      "productShortName": "graps",
+      "productDescription": "",
+      "createdDate": "2024-02-11T10:32:13.732Z",
+      "deliveryTimeSpan": "ssgsfdg",
+      "categoryId": "1",
+      "productImageUrl": "https://as2.ftcdn.net/v2/jpg/05/43/97/59/1000_F_543975953_Dwz5S7oUKbfuLBwUdyiaVQrFGhW1jyRz.webp"
+    }
+  ],
+  "category": {
+    "message": "",
+    "result": true,
+    "data": [
+      {
+        "categoryId": 1,
+        "categoryName": "Fruit & Vegitables",
+        "percentcategoryId": 0
+      },
+      {
+        "categoryId": 2,
+        "categoryName": "Bakery",
+        "percentcategoryId": 0
+      },
+      {
+        "categoryId": 3,
+        "categoryName": "Cloths",
+        "percentcategoryId": 0
+      },
+      {
+        "categoryId": 4,
+        "categoryName": "Electronics",
+        "percentcategoryId": 0
+      }
+    ]
+  }
+}
